@@ -1,0 +1,17 @@
+userId,email,passwordHash,firstName,lastName
+advithiK,advithi@example.com,hashed_pw_1,Advithi,Kethidi
+anikalovescoffee,anika@example.com,hashed_pw_2,Anika,Sood
+kelseykoffee,kelsey@example.com,hashed_pw_3,Kelsey,Musolf
+maya_mugs,maya@example.com,hashed_pw_4,Maya,Patelle
+leo.espresso,leo@example.com,hashed_pw_5,Leo,Martinez
+sarahsipz,sarah@example.com,hashed_pw_6,Sarah,Nguyen
+coffeewithchris,chris@example.com,hashed_pw_7,Chris,Miller
+jordan_brews,jordan@example.com,hashed_pw_8,Jordan,Smith
+liam_latte,liam@example.com,hashed_pw_9,Liam,O'Connor
+sophie_sips,sophie@example.com,hashed_pw_10,Sophie,Chen
+bean_enthusiast,mark@example.com,hashed_pw_11,Mark,Harrison
+tiramisu_tom,tom@example.com,hashed_pw_12,Tom,Hiddleston
+horchata_hannah,hannah@example.com,hashed_pw_13,Hannah,Montana
+chicory_charles,charles@example.com,hashed_pw_14,Charles,Brown
+berry_bella,bella@example.com,hashed_pw_15,Bella,Hadid
+cacao_cory,cory@example.com,hashed_pw_16,Cory,Mory

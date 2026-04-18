@@ -1,0 +1,142 @@
+drinkName,drinkType,temperature,milk,flavor 1,flavor 2,cost,cals,coffeeShop
+Iced Vanilla Oat Latte,latte,iced,oat,vanilla,none,7.5,320,Arcade Coffee Roasters
+Vanilla Latte,latte,hot,whole,vanilla,none,6.5,290,Arcade Coffee Roasters
+Hot Caramel Latte,latte,hot,whole,caramel,none,6.75,310,Arcade Coffee Roasters
+Lavender Latte,latte,hot,oat,lavender,none,7,280,Arcade Coffee Roasters
+Hazelnut Latte,latte,hot,whole,hazelnut,none,6.75,300,Arcade Coffee Roasters
+Iced Mocha,mocha,iced,almond,chocolate,none,7.25,340,Arcade Coffee Roasters
+Dark Chocolate Mocha,mocha,hot,whole,dark chocolate,none,7.5,360,Arcade Coffee Roasters
+Cold Brew with Almond Milk,cold brew,iced,almond,plain,none,4.5,90,Arcade Coffee Roasters
+Vanilla Cold Brew,cold brew,iced,none,vanilla,none,4.75,120,Arcade Coffee Roasters
+Nitro Cold Brew,cold brew,iced,none,plain,none,5.25,80,Arcade Coffee Roasters
+Masala Chai Latte,chai,hot,oat,spiced,none,6.25,260,Arcade Coffee Roasters
+Dirty Chai,chai,hot,oat,spiced,none,6.75,290,Arcade Coffee Roasters
+Cinnamon Latte,latte,hot,oat,cinnamon,none,6.75,270,Arcade Coffee Roasters
+Turmeric Latte,latte,hot,oat,turmeric,none,6.5,240,Arcade Coffee Roasters
+Iced Matcha Latte,matcha,iced,oat,matcha,none,7,260,Arcade Coffee Roasters
+Hot Matcha Latte,matcha,hot,oat,matcha,none,6.75,250,Arcade Coffee Roasters
+Double Espresso,espresso,hot,none,bold,none,3.5,10,Arcade Coffee Roasters
+Cortado,espresso,hot,whole,bold,none,4,60,Arcade Coffee Roasters
+Espresso Macchiato,espresso,hot,foam,bold,none,3.75,40,Arcade Coffee Roasters
+Americano,espresso,hot,none,bold,none,3.25,15,Arcade Coffee Roasters
+Cafe Latte,latte,hot,whole,plain,none,7,250,Mundial Coffee Riverside
+Iced Cafe Latte,latte,iced,whole,plain,none,7,250,Mundial Coffee Riverside
+Brown Sugar Oatmilk Latte,latte,hot,oat,brown sugar,none,7.5,300,Mundial Coffee Riverside
+Iced Brown Sugar Oatmilk Latte,latte,iced,oat,brown sugar,none,7.5,300,Mundial Coffee Riverside
+Americano,americano,hot,none,plain,none,4.5,5,Mundial Coffee Riverside
+Iced Americano,americano,iced,none,plain,none,4.5,5,Mundial Coffee Riverside
+Cappuccino,cappuccino,hot,whole,plain,none,6,150,Mundial Coffee Riverside
+Cafe Mocha,mocha,hot,whole,chocolate,none,7.5,350,Mundial Coffee Riverside
+Iced Cafe Mocha,mocha,iced,whole,chocolate,none,7.5,350,Mundial Coffee Riverside
+Lavender Oatmilk Latte,latte,hot,oat,lavender,none,7.5,280,Mundial Coffee Riverside
+Briar Rose Oatmilk Latte,latte,hot,oat,rose,none,7.5,280,Mundial Coffee Riverside
+Fall Into It Latte,latte,hot,oat,cinnamon,cardamom,7.5,280,Mundial Coffee Riverside
+Cortado,cortado,hot,whole,plain,none,5.5,100,Mundial Coffee Riverside
+Dirty Horchata,latte,iced,oat,horchata,none,7.5,350,Mundial Coffee Riverside
+Peppermint Mocha,mocha,hot,whole,peppermint chocolate,none,7.5,380,Mundial Coffee Riverside
+Wildflower Honey Latte,latte,hot,oat,honey,none,7.5,290,Mundial Coffee Riverside
+Spanish Latte,latte,hot,whole,condensed milk,none,7.5,360,Mundial Coffee Riverside
+White Peppermint Mocha,mocha,hot,whole,white peppermint,none,8,420,Mundial Coffee Riverside
+Monarca Mocha,mocha,hot,whole,spiced cacao,none,7.5,370,Mundial Coffee Riverside
+Iced Tiramisu Latte,latte,iced,whole,tiramisu,none,8.5,450,Mundial Coffee Riverside
+Matcha Latte,matcha,hot,oat,matcha,none,7,250,Mundial Coffee Riverside
+Spiced Chai Oatmilk Latte,chai,hot,oat,spiced chai,none,7,260,Mundial Coffee Riverside
+Hot 9-1-1,6-shot breve,hot,half & half,irish cream,none,6.5,500,Dutch Bros Coffee
+Iced 9-1-1,6-shot breve,iced,half & half,irish cream,none,6.5,450,Dutch Bros Coffee
+9-1-1 Freeze,blended,cold,half & half,irish cream,none,7,600,Dutch Bros Coffee
+Hot Kicker,breve,hot,half & half,irish cream,none,6,450,Dutch Bros Coffee
+Iced Kicker,breve,iced,half & half,irish cream,none,6,400,Dutch Bros Coffee
+Kicker Freeze,blended,cold,half & half,irish cream,none,6.5,550,Dutch Bros Coffee
+Hot Annihilator,breve,hot,half & half,choc mac nut,none,6,480,Dutch Bros Coffee
+Iced Annihilator,breve,iced,half & half,choc mac nut,none,6,430,Dutch Bros Coffee
+Annihilator Freeze,blended,cold,half & half,choc mac nut,none,6.5,580,Dutch Bros Coffee
+Hot Caramelizer,mocha,hot,half & half,caramel,none,6,520,Dutch Bros Coffee
+Iced Caramelizer,mocha,iced,half & half,caramel,none,6,470,Dutch Bros Coffee
+Caramelizer Freeze,blended,cold,half & half,caramel,none,6.5,620,Dutch Bros Coffee
+Hot Cocomo,mocha,hot,half & half,coconut,none,6,500,Dutch Bros Coffee
+Iced Cocomo,mocha,iced,half & half,coconut,none,6,450,Dutch Bros Coffee
+Cocomo Freeze,blended,cold,half & half,coconut,none,6.5,600,Dutch Bros Coffee
+Hot White Mocha,mocha,hot,half & half,white chocolate,none,6,550,Dutch Bros Coffee
+Iced White Mocha,mocha,iced,half & half,white chocolate,none,6,500,Dutch Bros Coffee
+White Mocha Freeze,blended,cold,half & half,white chocolate,none,6.5,650,Dutch Bros Coffee
+Hot Double Torture,mocha,hot,half & half,vanilla,none,6.5,530,Dutch Bros Coffee
+Iced Double Torture,mocha,iced,half & half,vanilla,none,6.5,480,Dutch Bros Coffee
+Double Torture Freeze,blended,cold,half & half,vanilla,none,7,630,Dutch Bros Coffee
+Hot Golden Eagle,breve,hot,half & half,caramel,vanilla,6.5,580,Dutch Bros Coffee
+Iced Golden Eagle,breve,iced,half & half,caramel,vanilla,6.5,530,Dutch Bros Coffee
+Golden Eagle Freeze,blended,cold,half & half,caramel,vanilla,7,680,Dutch Bros Coffee
+Hot Double Chocolate Mocha,mocha,hot,half & half,chocolate,none,6,600,Dutch Bros Coffee
+Iced Double Chocolate Mocha,mocha,iced,half & half,chocolate,none,6,550,Dutch Bros Coffee
+Double Chocolate Mocha Freeze,blended,cold,half & half,chocolate,none,6.5,700,Dutch Bros Coffee
+Hot Vanilla Chai,chai,hot,half & half,vanilla,none,5.5,350,Dutch Bros Coffee
+Iced Vanilla Chai,chai,iced,half & half,vanilla,none,5.5,300,Dutch Bros Coffee
+Vanilla Chai Freeze,blended,cold,half & half,vanilla,none,6,450,Dutch Bros Coffee
+Hayes Valley Espresso,espresso,hot,none,chocolate,orange,4.5,5,Blue Bottle Coffee
+Sweet Latte,latte,hot,whole,muscovado,none,9,280,Blue Bottle Coffee
+Iced Sweet Latte,latte,iced,whole,muscovado,none,9,280,Blue Bottle Coffee
+Americano,americano,hot,none,plain,none,6,5,Blue Bottle Coffee
+Caffè Latte,latte,hot,whole,plain,none,8,190,Blue Bottle Coffee
+Iced Caffè Latte,latte,iced,whole,plain,none,8,190,Blue Bottle Coffee
+Caffè Mocha,mocha,hot,whole,chocolate,none,9,320,Blue Bottle Coffee
+Iced Caffè Mocha,mocha,iced,whole,chocolate,none,9,320,Blue Bottle Coffee
+Cappuccino,cappuccino,hot,whole,plain,none,7,120,Blue Bottle Coffee
+Winter Latte,latte,hot,whole,juniper,pepper,9,300,Blue Bottle Coffee
+Iced Winter Latte,latte,iced,whole,juniper,pepper,9,300,Blue Bottle Coffee
+Iced Matcha,matcha,iced,whole,matcha,none,6,180,Blue Bottle Coffee
+Matcha Latte,matcha,hot,whole,matcha,none,6,180,Blue Bottle Coffee
+Iced NOLA,cold brew,iced,whole,chicory,none,7,160,Blue Bottle Coffee
+NOLA Carton,cold brew,cold,whole,chicory,none,6,150,Blue Bottle Coffee
+Shakerato,espresso,iced,none,plain,none,6,80,Blue Bottle Coffee
+Cascara Fizz,soda,iced,none,cascara,none,6,70,Blue Bottle Coffee
+Hot Chocolate,hot chocolate,hot,whole,chocolate,none,6.5,350,Blue Bottle Coffee
+Chai Latte,chai,hot,whole,spiced,none,6.75,210,Blue Bottle Coffee
+Café Au Lait,au lait,hot,whole,plain,none,7.5,100,Blue Bottle Coffee
+Mint Mojito,iced coffee,iced,cream,mint,sweet,6.5,220,Philz Coffee
+Iced Coffee Rose,iced coffee,iced,cream,rose,sweet,6.5,210,Philz Coffee
+Tesora,pour over,hot,cream,caramel,nuts,5.75,150,Philz Coffee
+Iced Tesora,pour over,iced,cream,caramel,nuts,6.25,150,Philz Coffee
+Philtered Soul,pour over,hot,cream,hazelnut,chocolate,5.75,160,Philz Coffee
+Iced Philtered Soul,pour over,iced,cream,hazelnut,chocolate,6.25,160,Philz Coffee
+Jacob's Wonderbar,pour over,hot,cream,dark chocolate,none,5.75,140,Philz Coffee
+Iced Jacob's Wonderbar,pour over,iced,cream,dark chocolate,none,6.25,140,Philz Coffee
+Silken Soul,pour over,hot,cream,vanilla,hazelnut,5.75,160,Philz Coffee
+Julie's Ultimate,pour over,hot,cream,berry,vanilla,6,150,Philz Coffee
+Ecstatic,pour over,hot,cream,dark chocolate,simple syrup,5.75,180,Philz Coffee
+Iced Ecstatic,pour over,iced,cream,dark chocolate,simple syrup,6.25,180,Philz Coffee
+Gingersnap,iced coffee,iced,cream,ginger,cinnamon,6.5,240,Philz Coffee
+Mocha Tesora,mocha,hot,cream,chocolate,caramel,6.5,310,Philz Coffee
+Dancing Water,pour over,hot,none,citrus,milk chocolate,5.5,5,Philz Coffee
+Oatmeal Cookie,iced coffee,iced,oat,cinnamon,none,7,250,Philz Coffee
+New Light,pour over,hot,none,floral,citrus,5.5,5,Philz Coffee
+Greater Manhattan,pour over,hot,cream,cherry,citrus,5.75,140,Philz Coffee
+Canopy,pour over,hot,none,nutty,fruit,5.5,5,Philz Coffee
+Better Days,pour over,hot,none,berry,citrus,5.5,5,Philz Coffee
+Masala Chai Latte,chai,hot,whole,masala spice,none,5.5,240,Chai Point
+Honey Oat Milk Latte,latte,hot,oat,honey,none,6.75,210,Philz Coffee
+Iced Caramel Cold Brew,cold brew,iced,none,caramel,none,5.45,60,Philz Coffee
+Double Shot,espresso,hot,none,bold,none,4.25,10,Philz Coffee
+Vanilla Bean Latte,latte,hot,whole,vanilla bean,none,5.95,190,Peet's Coffee
+Nitro Cold Brew,cold brew,iced,none,plain,none,5.75,5,Peet's Coffee
+Caramel Cold Brew,cold brew,iced,none,caramel,none,5.25,50,Peet's Coffee
+Hazelnut Mocha,mocha,hot,whole,hazelnut,chocolate,6.25,310,Peet's Coffee
+Macchiato,espresso,hot,foam,bold,none,4.25,20,Peet's Coffee
+Pour Over,pour over,hot,none,seasonal,none,5,5,Stumptown
+Cold Brew,cold brew,iced,none,plain,none,4.75,5,Stumptown
+Black Coffee,drip,hot,none,plain,none,3.5,5,Stumptown
+French Press,pour over,hot,none,bold,none,5.5,5,Stumptown
+Cinnamon Cold Brew,cold brew,iced,none,cinnamon,none,5.25,45,Stumptown
+Jasmine Milk Tea,tea,iced,whole,jasmine,none,5.5,210,Boba Guys
+Spanish Latte,latte,hot,whole,condensed milk,none,6.25,340,Alfred Coffee
+Oat Latte,latte,hot,oat,plain,none,6.5,140,Alfred Coffee
+Strawberry Matcha,matcha,iced,oat,strawberry,none,7.25,180,Alfred Coffee
+Almond Milk Mocha,mocha,hot,almond,chocolate,none,6.5,220,Alfred Coffee
+Turmeric Ginger Latte,latte,hot,oat,ginger,turmeric,6.5,160,Intelligentsia
+Chai Latte,chai,hot,whole,spiced,none,5.75,210,Intelligentsia
+Cardamom Latte,latte,hot,whole,cardamom,none,6.25,200,Intelligentsia
+Single Origin Espresso,espresso,hot,none,seasonal,none,4.5,5,Sightglass
+Viennese Coffee,drip,hot,cream,chocolate,spice,5.75,160,Sightglass
+Espresso,espresso,hot,none,bold,none,3.5,5,Sightglass
+Dark Mocha,mocha,hot,whole,dark choc,none,6,290,Blue Bottle Coffee
+Iced Dirty Chai,chai,iced,oat,espresso,spice,7.5,280,Blue Bottle Coffee
+Long Black,espresso,hot,none,bold,none,4.25,5,Blue Bottle Coffee
+Gibraltar,espresso,hot,whole,bold,none,4.5,45,Blue Bottle Coffee
